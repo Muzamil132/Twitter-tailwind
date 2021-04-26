@@ -4,7 +4,7 @@ import {
  
     DotsHorizontalIcon,
   } from "@heroicons/react/outline";
-import { BasicUsage } from './Modal';
+
 const SideCol = () => {
     return (
         <div className=" border-b dark:border-gray-700 py-2 px-3   hover:bg-gray-200  dark:hover:bg-gray-700">
